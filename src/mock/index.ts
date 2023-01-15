@@ -1,16 +1,16 @@
 import { LocalGithubUser } from "types";
 
 export const defaultUser: LocalGithubUser = {
-  login: "",
+  login: "wisholli",
   name: "",
   bio: "",
-  avatar: "",
+  avatar: "https://avatars.githubusercontent.com/u/111116519?v=4",
   blog: "",
   company: "",
-  created: "",
-  followers: 4,
-  following: 6,
+  created: "2022-08-12T08:30:11Z",
+  followers: 0,
+  following: 0,
   location: "",
-  repos: "",
+  repos: 2,
   twitter: "",
 };
